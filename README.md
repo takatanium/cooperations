@@ -1,2 +1,2 @@
 # cooperations
-Front end for Cooperations LLC
+Front end for Cooperations LLC.
